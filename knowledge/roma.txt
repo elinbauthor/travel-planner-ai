@@ -1,0 +1,33 @@
+
+DESTINO: ROMA, ITALIA
+
+FUENTE DE REFERENCIA: Turismo Roma - Portal oficial de turismo de Roma.
+URL: https://www.turismoroma.it/
+TIPO DE FUENTE: Portal turístico institucional.
+ESTADO DE VERIFICACIÓN: Información general preparada para el prototipo. Las afirmaciones individuales todavía no se han contrastado con páginas específicas del portal.
+NOTA: Los horarios, precios y disponibilidad deben verificarse en las webs oficiales antes de viajar.
+
+LUGARES CULTURALES:
+- Coliseo: anfiteatro romano situado junto al Foro Romano y el Monte Palatino. Conviene reservar entradas con antelación.
+- Foro Romano: conjunto arqueológico de la antigua Roma, próximo al Coliseo.
+- Panteón: monumento histórico situado en el centro de Roma. La entrada puede requerir reserva o pago.
+- Museos Vaticanos: albergan importantes colecciones artísticas y permiten acceder a la Capilla Sixtina mediante el recorrido correspondiente.
+- Fontana di Trevi: fuente monumental situada en el centro histórico.
+
+GASTRONOMÍA:
+- Trastevere: barrio conocido por sus restaurantes y ambiente nocturno.
+- Monti: barrio cercano al Coliseo con restaurantes, cafeterías y tiendas.
+- Platos tradicionales: carbonara, cacio e pepe, amatriciana y supplì.
+- Campo de' Fiori: zona con mercado y establecimientos gastronómicos.
+
+MOVILIDAD:
+- El centro histórico se puede recorrer parcialmente a pie.
+- Roma dispone de metro, autobuses y tranvías.
+- Conviene agrupar visitas por proximidad para reducir desplazamientos.
+
+RECOMENDACIONES:
+- Consultar los horarios oficiales de museos y monumentos.
+- Reservar con antelación las atracciones más populares.
+- Respetar las normas de vestimenta en determinados lugares religiosos.
+- Llevar calzado cómodo para caminar.
+
