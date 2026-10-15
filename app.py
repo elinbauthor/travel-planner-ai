@@ -8,6 +8,8 @@ st.set_page_config(page_title="Travel Planner AI", page_icon="✈️")
 
 st.title("✈️ Travel Planner AI")
 st.write("Planifica tu próximo viaje con inteligencia artificial.")
+st.info("📚 Demostración RAG: selecciona Roma para consultar información turística recuperada de nuestra base documental.")
+st.caption("Para otros destinos, Gemini genera el itinerario sin documentación RAG específica.")
 
 destino = st.text_input("¿A dónde quieres viajar?", "Roma")
 duracion = st.number_input("¿Cuántos días?", min_value=1, max_value=30, value=3)
