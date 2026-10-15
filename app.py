@@ -168,3 +168,33 @@ if st.session_state.get("itinerario_actual"):
         "Control automático orientativo. No garantiza la ausencia "
         "de errores, sesgos ni información desactualizada."
     )
+st.divider()
+st.subheader("🧠 Metodología y fine-tuning")
+
+st.markdown("""
+**Modelo principal:** Gemini, utilizado para generar y modificar itinerarios personalizados.
+
+**RAG:** recuperación de información turística desde una base documental local.
+Roma se utiliza como destino de demostración.
+
+**Fine-tuning experimental:** se realizó un ajuste de un modelo
+preentrenado mediante LoRA en Google Colab, utilizando cuatro ejemplos
+de itinerarios personalizados.
+
+**Resultados del entrenamiento:**
+- 6 épocas y 12 pasos de entrenamiento.
+- Pérdida inicial registrada: 2,6126.
+- Pérdida final registrada: 2,2810.
+- Aproximadamente 540.672 parámetros entrenables.
+
+La disminución de la pérdida indica que el modelo se adaptó a los
+ejemplos de entrenamiento, aunque el conjunto de datos es demasiado
+pequeño para demostrar una mejora general de calidad.
+
+**Nota:** el fine-tuning se realizó como experimento independiente.
+La aplicación pública utiliza Gemini y no ejecuta el modelo ajustado.
+
+**Control de calidad:** comprobaciones automáticas básicas,
+instrucciones para evitar información no verificada y posibilidad
+de modificar y valorar los itinerarios.
+""")
